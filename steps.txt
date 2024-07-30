@@ -1,0 +1,7 @@
+THE STEPS ARE GIVEN BELOW 
+1.create a folder(ex: package1 etc..) in your C or D dirctories
+2.copy the module1 , module 2 and init python files to the above folder
+3.copy the test.py outside the folder (imp note: both the package1 and test.py should be in the same  directory but 
+                                                 the file(test.py) should be placed outside the folder(package1)
+4.run the test folder. 
+if required further assistance mail to (binomo7970@gmail.com)
